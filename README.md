@@ -1,4 +1,4 @@
-# Default-Credentials
+# Default Credentials
 Default usernames and passwords for various systems and devices.
 
 # Purpose
